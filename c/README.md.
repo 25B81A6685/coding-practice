@@ -1,0 +1,38 @@
+Library Management System in C
+
+About
+
+A console-based application for managing library books.
+
+Features
+
+- Add new books
+- Display available book records
+- Search for books by ID
+- Issue books
+- Return books
+- Save and load records using file handling
+
+Technologies Used
+
+- C programming
+- Structures
+- Functions
+- Arrays
+- File handling
+
+How to Compile
+
+gcc library_management.c -o library
+
+How to Run
+
+./library
+
+On Windows, run:
+
+library.exe
+
+Learning Objective
+
+To practise modular programming, structures, input validation, and file handling in C.
